@@ -13,3 +13,9 @@ Or:
 Put the Repository on a application server(WAMP/MAMP/XAMPP), and open the server location in iPhone/Android/Windows Phone 7
 
 Enjoy playing Slot Machine.
+
+Please have a look at this fiddle:
+
+http://jsfiddle.net/hrishikeshp19/4rjFs/
+
+The actual speed of slot machine hosted on a server is much better than what you can see in this fiddle. These speed limitations are because of jsfiddle.
